@@ -1,5 +1,7 @@
 # Hotel-Booking-Analysis-Dashboard
 
+![Dashboard](https://github.com/ANURUDRA-JENA/Travel-Hospitality-Analysis/blob/7dd4df8f31dbfeff8c3340330b4b4074771c7e9e/Assets/Dashboard.png)
+
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'>This repo contains a dashboard made for the Hotel boking Analysis EDA out of the famous AirBnb&rsquo;s Hotel Bookings Dataset.</p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'>Suppose, <strong>if someone performed EDA on Airbnb operations</strong> then the following steps need to be followed for building an adequate dashboard through which one can analyze the performance of the company to take necessary actions.</p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'><strong>Problem Statement:</strong></p>
